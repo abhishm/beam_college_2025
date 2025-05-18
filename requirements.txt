@@ -1,0 +1,7 @@
+apache-beam==2.53.0
+faker==23.1.0
+pandas==2.2.0
+streamlit==1.30.0
+google-cloud-pubsub==2.20.1
+python-dotenv==1.0.0
+google-generativeai==0.3.2 
